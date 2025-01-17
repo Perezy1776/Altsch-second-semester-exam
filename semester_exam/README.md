@@ -1,5 +1,7 @@
 #Documentation: Provisioning and Deploying a Web Server
+
 ##Step 1: Provisioning the Server
+
 ###1.1. Choose a Server Provider
 -	Select a cloud provider. I used the AWS Cloud Provider
 ###1.2. Create a New Virtual Machine (VM)
@@ -36,5 +38,6 @@
 -	Do that by going to security group on AWS instance and setting the inbound rules
 ###4.3. Test the Setup
 -	Open a web browser and enter the public IP address of your server to check if the HTML page is accessible:
+
 ##http://13.247.199.161/
 
