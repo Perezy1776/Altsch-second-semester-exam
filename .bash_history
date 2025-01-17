@@ -136,3 +136,71 @@ ls
 git status
 git add inventory
 clear
+git status
+git remote set-url origin https://github.com/Perezy1776/Alt_Cloud_AWS_Class.git
+git init
+git config --global user.name "Perez"
+git config --global user.email "shortscha2gmail.com"
+git remote set-url origin https://github.com/Perezy1776/Alt_Cloud_AWS_Class.git
+git add .
+ls
+cd Ansible_tutorial
+ls
+git status
+git add .
+git push origin master
+ls -al ~/.ssh
+ssha
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+git clone git@github.com:Perezy1776/Alt_Cloud_AWS_Class.git
+git status
+git add Alt_Cloud_AWS_Class/
+git add .
+git commit -m "Ansible version commit"
+git push origin main
+git push origin master
+git remote set-url origin git@github.com:Perezy1776/Alt_Cloud_AWS_Class.git
+git remote -v
+git pull origin master
+git branch -r
+git pull origin main
+git pull --no-rebase origin main
+git pull --ff-only origin main
+git config pull.ff only
+git config --global pull.ff only
+git branch
+git pull origin main
+git add <file_with_conflicts>
+sudo su
+which nginx
+which apache2
+sudo systemctl status nginx
+sudo systemctl stop nginx
+sudo systemctl status nginx
+whoami
+pwd
+ls
+cd Ansible_tutorial
+ls
+sudo su
+cd ..
+c~
+cd ~
+clear
+whoami
+sudo nano
+ls -al
+sudo apt update
+which apache2
+which nginx
+sudo apt install apache2
+clear
+systemctl status apache2
+sudo apt install apache2
+which apache 2
+which apache2
+sudo nano
+sudo nano /var/www/html/index.html
